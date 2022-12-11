@@ -1,5 +1,5 @@
 package belajarmodule
 
 func SayHello() string {
-	return "Hello World"
+	return "Hello World Dan Reusmana Sujani"
 }
