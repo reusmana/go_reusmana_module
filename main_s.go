@@ -1,5 +1,5 @@
 package belajarmodule
 
-func SayHello() string {
-	return "Hello World Dan Reusmana Sujani"
+func SayHello(name string) string {
+	return "Hello" + name
 }
